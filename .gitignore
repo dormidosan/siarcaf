@@ -3,8 +3,6 @@
 /vendor
 Homestead.yaml
 Homestead.json
-.env
 .idea
-.env.example
 composer.json
 composer.lock
